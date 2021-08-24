@@ -1,0 +1,22 @@
+{
+  "name": "appsync-node-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "apollo-cache-inmemory": "*",
+    "apollo-client": "2.6.3",
+    "apollo-link": "*",
+    "apollo-link-http": "*",
+    "aws-sdk": "2.974.0",
+    "aws-appsync": "4.1.1",
+    "es6-promise": "*",
+    "graphql": "^14.7.0",
+    "graphql-tag": "2.12.5",
+    "isomorphic-fetch": "*",
+    "ws": "^3.3.1"
+  }
+}
